@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Collision">
+      <UniqueIdentifier>{bc81a638-e073-4c91-9a0f-06b67ec64263}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Physics">
+      <UniqueIdentifier>{0d641d4a-42ca-4e9c-8dca-75069f39b0cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Animation">
+      <UniqueIdentifier>{06abb98a-277d-4001-ace9-f0398d1f2442}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Physics\Forces &amp; Constraints">
+      <UniqueIdentifier>{2097c5d2-d704-444e-92b6-30befa5b39b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Collision\Ray casting">
+      <UniqueIdentifier>{f94e455e-315c-4d22-acc9-7aa63fcc4049}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Collision\Rigid Bodies">
+      <UniqueIdentifier>{79ea8016-5223-40ad-8c53-e3a48e3cfb8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Collision\Shapes">
+      <UniqueIdentifier>{6d9af727-cfaa-4e6d-843a-d817298272c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Physics\Phantoms">
+      <UniqueIdentifier>{4373a2ce-eb3c-4f28-b188-cfb4382c6266}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Animation\Inverse Kinematics">
+      <UniqueIdentifier>{8cbf9c6e-abdd-4d69-accf-a4bc81780e9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Animation\Decompression">
+      <UniqueIdentifier>{eb53ec5e-fc36-4952-a8c8-1fadc5d1ebd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Animation\LERP &amp; Blending">
+      <UniqueIdentifier>{b78b3906-9bd3-4815-89cf-8007790afa18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Animation\Animation Tree">
+      <UniqueIdentifier>{e64bbfe7-e2b3-4730-8100-0a97186ce88f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Animation\Playback">
+      <UniqueIdentifier>{351255c9-5977-4169-b213-acb927872648}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripting">
+      <UniqueIdentifier>{8ac1b106-6ef4-42ef-a3f1-0b771c2a7729}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Streaming">
+      <UniqueIdentifier>{28ae6398-2e52-403a-8e73-bd2f3e98ba99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Event &amp; Messaging">
+      <UniqueIdentifier>{40557c06-6824-4829-811e-51de432237fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Subsystems">
+      <UniqueIdentifier>{26ea150e-3b0e-44a1-81f6-148d6134dd2d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Subsystems\AI">
+      <UniqueIdentifier>{3d4b9341-64e2-4d4d-b861-f1384541b882}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Subsystems\Entities">
+      <UniqueIdentifier>{f3ccb2e0-6445-4b1c-9b6e-e6f7b30e42a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Subsystems\Player">
+      <UniqueIdentifier>{c346dfcf-b810-4964-9818-3c7152b6d327}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Subsystems\Cameras">
+      <UniqueIdentifier>{a433987d-097a-450e-bd56-adab05a553f7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

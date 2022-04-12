@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Movie player">
+      <UniqueIdentifier>{f8716bdf-d03f-48cb-80d3-a88ce9c7adb6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Math">
+      <UniqueIdentifier>{fb621e34-7ba6-4e3a-9d1c-1692bb52bcaf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Debugging">
+      <UniqueIdentifier>{d656da40-dd3f-4d6d-b0d2-9118d3fd531a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Debugging\Assertions">
+      <UniqueIdentifier>{f3bdc1fb-15e1-44cb-b176-230ef53640dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Debugging\Unit Testing">
+      <UniqueIdentifier>{bb12a64b-7f56-47af-b203-27f27da99bad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Debugging\Profiling">
+      <UniqueIdentifier>{67382298-4be0-44cf-9aaf-58c02735ce1c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Manager">
+      <UniqueIdentifier>{0b29c6f5-19b2-424c-93f2-36ad4245aa05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Manager\Memory Allocator">
+      <UniqueIdentifier>{de91048c-fa2a-4d5c-97e5-ac8157b9d8c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Manager\Meshes">
+      <UniqueIdentifier>{7a39e280-e29e-4061-a0a9-14b13d1d7838}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Manager\Textures">
+      <UniqueIdentifier>{7cf644e3-fa5c-4572-b1f8-4c98dcacfa33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Manager\Materials">
+      <UniqueIdentifier>{1320e06a-b8ec-4836-ba74-31f5cb6bcfd3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Manager\Fonts">
+      <UniqueIdentifier>{09c418cf-6062-4a9f-999b-7c1ad120590a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Movie player\Cinematics">
+      <UniqueIdentifier>{01b26752-7a81-4852-a2b2-674e3899ad5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Debugging\Profiling\Recording &amp; Playback">
+      <UniqueIdentifier>{cace48e8-a48a-42ab-a809-c5158b593105}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Debugging\Profiling\Performance Stats">
+      <UniqueIdentifier>{ec9f9f1b-0146-4925-a0bf-a519ed7a587f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

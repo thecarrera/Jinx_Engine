@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Playback">
+      <UniqueIdentifier>{0329d216-a7d1-4296-977d-a461f2d2b29e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Effects">
+      <UniqueIdentifier>{77761422-5447-434b-ac4a-132c825108ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3D Audio">
+      <UniqueIdentifier>{de1b9de3-ac1e-48ab-a89b-c530ead85b04}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

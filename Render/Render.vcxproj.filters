@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Graphic APIs">
+      <UniqueIdentifier>{b7984fe0-b9a4-4c15-a459-e7e3ebe5b117}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphic APIs\DirectX">
+      <UniqueIdentifier>{bca69521-066a-44a0-a84c-74925392fa78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphic APIs\OpenGL">
+      <UniqueIdentifier>{8d69fb0a-4f79-45a9-a3a4-16bfdc0035ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphic APIs\Vulkan">
+      <UniqueIdentifier>{ee74b2dc-3053-4b46-ac65-a725c81e7f4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{23a7762c-06af-4413-ba4e-b37fcbefcb52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Cameras">
+      <UniqueIdentifier>{41fbb0ba-58c4-40e9-ac67-fa802caceed2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Viewport">
+      <UniqueIdentifier>{20ab2da3-06ab-4b68-aba0-cdfcfa899a95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphic APIs\DirectX\Debug">
+      <UniqueIdentifier>{5e1aa449-9f45-4545-9107-2bcd9ff06f7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene Graph">
+      <UniqueIdentifier>{5941b29c-213e-4cc3-884e-0082f019994f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Culling Optimizations">
+      <UniqueIdentifier>{8aeef716-4a35-45f0-bac8-f56181b8173b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FX">
+      <UniqueIdentifier>{78c866ed-28d1-4c3a-8a04-e10bd491a61f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FX\Decals">
+      <UniqueIdentifier>{32151256-e829-41b1-929f-069284f6c724}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FX\Post">
+      <UniqueIdentifier>{19db511b-c051-4971-9295-2f6f5234c5e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FX\Shadows &amp; Lights">
+      <UniqueIdentifier>{9c7c2dd9-6eda-4f89-83af-96f19e250033}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FX\Environment Mapping">
+      <UniqueIdentifier>{1966b1e5-2c62-4e1f-9ce8-a1c90f15c111}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FX\Particles">
+      <UniqueIdentifier>{bb156f7b-f6cc-4a00-8012-3b63d69ee39c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphic APIs\DirectX\Debug\Line Drawing">
+      <UniqueIdentifier>{03931da6-f0d6-4f73-893c-64a865480286}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GUI">
+      <UniqueIdentifier>{2342eb6b-1b72-4106-9815-33ff5a515012}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GUI\HUD">
+      <UniqueIdentifier>{0d6245c6-003c-482f-9108-fb7de2a0ee1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GUI\Menus">
+      <UniqueIdentifier>{e31e53b5-de1c-4af8-aa66-72da5412f054}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Culling Optimizations\LOD">
+      <UniqueIdentifier>{5c2877e5-6fc3-4685-87c5-f6baf17ca7b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Culling Optimizations\Occlusion &amp; PVS">
+      <UniqueIdentifier>{2d622100-6cb2-4f69-90f7-975ef6a0fb30}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
