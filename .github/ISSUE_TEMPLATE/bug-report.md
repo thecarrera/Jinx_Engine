@@ -8,7 +8,6 @@ assignees: ''
 ---
 
 # **Summary**
-======
 A clear and concise description of what the bug is.
 
 ### **How to reproduce**
